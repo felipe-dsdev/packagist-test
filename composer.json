@@ -1,0 +1,7 @@
+{
+    "name": "packagist-test/is-an-test",
+    "description": "A short description of what your package does",
+    "require": {
+        "php": ">=8.1.1"
+    }
+}
